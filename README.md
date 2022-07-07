@@ -1,0 +1,4 @@
+- 👋 Hi, I’m BARO
+- 👀 I’m interested web amd app projects
+- 🌱 I’m currently learning web frontend
+- my Bolg: https://baro-baro.tistory.com/
