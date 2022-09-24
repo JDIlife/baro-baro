@@ -1,4 +1,4 @@
 - 👋 Hi, I’m JDI
-- 👀 I’m interested web amd app projects
+- 👀 I’m interested web and app projects
 - 🌱 I’m currently learning web frontend
 - my Bolg: https://baro-baro.tistory.com/
